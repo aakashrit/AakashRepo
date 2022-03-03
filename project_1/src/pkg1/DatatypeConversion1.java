@@ -12,7 +12,7 @@ public class DatatypeConversion1
 	 float d;  // big datatype store small datatype
 	 d=c;
 	 System.out.println("Value of d is" +d);
-	 System.out.println("Value of float d is" +d);
+	 System.out.println("Value of float  is" +d);
  }
  public void c2()
  {
