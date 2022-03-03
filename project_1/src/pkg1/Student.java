@@ -12,6 +12,7 @@ public class Student
  public void display2()      // method decleration
  {
 	 System.out.println("Automation is very easy");
+	 System.out.println("Automation is very very easy");
  }
  
  public static void main(String[] args)
